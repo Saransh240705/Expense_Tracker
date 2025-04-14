@@ -84,7 +84,3 @@ A comprehensive expense tracking application built with Flask and SQLAlchemy.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-
-- Flask documentation
-- Bootstrap documentation
-- Chart.js documentation
