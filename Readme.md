@@ -219,45 +219,25 @@ CREATE TABLE expense (
    - Database operations
    - Authentication flow
 
-## Common Interview Questions
 
-1. **Why Flask over Django?**
-   - Lightweight framework
-   - More flexibility
-   - Better for small to medium applications
-   - Easier learning curve
-
-2. **Database Choice Justification**
+ **Database Choice Justification**
    - SQLite for development
    - Easy migration to PostgreSQL for production
    - No separate server required
    - Built-in Python support
 
-3. **Security Implementations**
+ **Security Implementations**
    - Password hashing
    - CSRF protection
    - SQL injection prevention
    - XSS protection
 
-4. **Scalability Considerations**
+ **Scalability Considerations**
    - Modular design
    - Database indexing
    - Caching implementation
    - API architecture
 
-## Future Enhancements
-
-1. **Technical Improvements**
-   - Add API endpoints
-   - Implement caching
-   - Add export functionality
-   - Email notifications
-
-2. **Feature Additions**
-   - Budget planning
-   - Recurring expenses
-   - Multi-currency support
-   - File attachments for receipts
 
 ## Contributors
 - Aaysha Sinha - 2024UIC3637
