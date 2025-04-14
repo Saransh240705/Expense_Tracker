@@ -2,7 +2,7 @@
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Saransh240705/Pro.git
    cd expense-tracker
    ```
 
